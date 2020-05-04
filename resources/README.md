@@ -1,5 +1,7 @@
 # Resources
 
+>- [Figma Templates](https://www.figma.com/templates/)
+
 ## Free Pictures & illustrations
 - [Unsplash](https://unsplash.com) 🌄
 - [FreePik](https://www.freepik.com/) 🌄
