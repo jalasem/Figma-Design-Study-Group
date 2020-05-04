@@ -5,6 +5,7 @@
 - To get inspired; Take a look at designs created with Figma [here](https://www.uplabs.com/posts/tool/figma)
 - Take this [Introduction to Figma](https://trydesignlab.com/figma-101-course/introduction-to-figma/)
 - Go through this suplemetary intro as well by snipcart: https://snipcart.com/blog/how-to-use-figma-tutorial
+- Watch this video on [how to create and work with shapes](https://www.youtube.com/watch?v=76y49-Hx23Y&list=PLLnpHn493BHFFqJTrBbx8trAsuI0U-16w&index=4)
 
 ## Expected Output
 - Being day1, Just design anything and share with us in the group.
