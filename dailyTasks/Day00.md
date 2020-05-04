@@ -4,6 +4,7 @@
 - Signup at [Figma Website](https://figma.com)
 - To get inspired; Take a look at designs created with Figma [here](https://www.uplabs.com/posts/tool/figma)
 - Take this [Introduction to Figma](https://trydesignlab.com/figma-101-course/introduction-to-figma/)
+- Go through this suplemetary intro as well by snipcart: https://snipcart.com/blog/how-to-use-figma-tutorial
 
 ## Expected Output
 - Being day1, Just design anything and share with us in the group.
