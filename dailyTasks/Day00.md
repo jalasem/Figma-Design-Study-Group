@@ -7,3 +7,12 @@
 
 ## Expected Output
 - Being day1, Just design anything and share with us in the group.
+  - **Hint:** At least design basic shapes (Line, Rectangle, Square, Circle and maybe star) 
+
+
+## Additional (Optional) reads
+- [Navigating the editor](https://help.figma.com/hc/en-us/articles/360041064174)
+- [Eplore the canvas](https://help.figma.com/hc/en-us/articles/360041064814)
+- [Layers & Asset Panel](https://help.figma.com/hc/en-us/articles/360039831974)
+- [Design Prototypes and view code properties](https://help.figma.com/hc/en-us/articles/360039832014)
+- [Adjust view settings in the editor](https://help.figma.com/hc/en-us/articles/360041065034)
