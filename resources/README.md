@@ -1,5 +1,6 @@
 # Resources
 
+>- [Figma Help Center](https://help.figma.com/hc/en-us)(not a typical help center but a learning environment 😉)
 >- [Figma Templates](https://www.figma.com/templates/)
 
 ## Free Pictures & illustrations
