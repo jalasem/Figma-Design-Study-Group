@@ -13,8 +13,8 @@ At the end of the day, you get to add Design and UI/UX to your skillset💯💯
 - [x] 🚨We understand power in Nigeria is not stable but try to access least look for a power source or backup that will serve you for just 1 - 2hrs daily. 
 
 ## ❌ You get removed if:
-- [] ⚠️ You miss 3 consecutive days.
-- [] ⚠️ You miss 7 days in total
+- [ ] ⚠️ You miss 3 consecutive days.
+- [ ] ⚠️ You miss 7 days in total
 
 All we need is discipline and determination, we can achieve mastery. With Figma design, you can earn a minimum of 100k naira for a single design and even more.
 
