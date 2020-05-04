@@ -2,6 +2,7 @@
 
 >- [Figma Help Center](https://help.figma.com/hc/en-us)(not a typical help center but a learning environment 😉)
 >- [Figma Templates](https://www.figma.com/templates/)
+>- Free Figma Course on [LearnUX.io](https://learnux.io/course/figma)
 
 ## Free Pictures & illustrations
 - [Unsplash](https://unsplash.com) 🌄
