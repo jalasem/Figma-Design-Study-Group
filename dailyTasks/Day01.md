@@ -11,3 +11,4 @@
 
 ## Additional (Optional) reads
 - [App design with Figma](https://home.et.utwente.nl/slootenvanf/uidessim/figma/4)
+- [Figma Component help](https://help.figma.com/hc/en-us/categories/360002042553-Using-Figma#Components)
