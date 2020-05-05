@@ -24,4 +24,8 @@ All we need is discipline and determination, we can achieve mastery.
 - [x] Together, we get to challenge ourselves to do more and learn more 
 - [x] Imagine being able to create every design that comes to your mind by yourself!!!  
 
+## Daily Tasks
+- Find daily tasks [here](dailyTasks/README.md)
+- [Submissions](dailyTasks/Submissions.md)
+
 To join us, send an email to jalasem@abdulsamii.com
