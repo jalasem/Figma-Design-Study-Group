@@ -7,6 +7,8 @@
 ## Free Pictures & illustrations
 - [Unsplash](https://unsplash.com) 🌄
 - [FreePik](https://www.freepik.com/) 🌄
+- [Flaticon](http://flaticon.com/) (Free Vectors)
+- [Unique Free AI Generated Photos](https://generated.photos/)
 
 ## Design Inspiration
 - [Dribbble](https://dribbble.com/) for general design inspiration.
