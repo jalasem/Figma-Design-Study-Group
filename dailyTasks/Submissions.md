@@ -9,3 +9,4 @@
 7. [Mubeenah](https://www.figma.com/file/eylgGG5TtDNLT9BhPizV0e/Figma-Study-Group-Mubeenah?node-id=13%3A1)
 8. [Aeeshah](https://www.figma.com/file/ghqLhCpRjf5pZuin6txYzt/Figma-Study-Group-Aeeshah?node-id=1%3A2)
 9. [AbdulGafar Olamide Ajao](https://www.figma.com/file/NbeR6i6KKvNX2lvwHQspuT/Figma-Study-Group-AbdulGafar-Olamide-Ajao?node-id=0%3A1)
+10. [Alabi Sunday](https://www.figma.com/file/YiHza0idcK47W7tyPN8OpZ/Figma-Study-Group-Alabi-Sunday?node-id=2%3A5)
