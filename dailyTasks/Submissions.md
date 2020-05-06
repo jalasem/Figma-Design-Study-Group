@@ -6,3 +6,6 @@
 4. [Tunji Oyeniran](https://www.figma.com/file/cZCf8fDl1JR1LWAmrDzr9I/Figma-Design-Study-Group-Designs?node-id=1%3A2)
 5. [James Shadowzpazz](https://www.figma.com/file/5WFHtn4jPh0xyGx2VBWeAG/FigmaStudyGroup-Shadowzpass?node-id=0%3A1)
 6. [Simisola Karen](https://www.figma.com/file/3ZgMRaHtch7mQ74goqZsAY/Figma-Study-Group-Karen?node-id=0%3A1)
+7. [Mubeenah](https://www.figma.com/file/eylgGG5TtDNLT9BhPizV0e/Figma-Study-Group-Mubeenah?node-id=13%3A1)
+8. [Aeeshah](https://www.figma.com/file/ghqLhCpRjf5pZuin6txYzt/Figma-Study-Group-Aeeshah?node-id=1%3A2)
+9. [AbdulGafar Olamide Ajao](https://www.figma.com/file/NbeR6i6KKvNX2lvwHQspuT/Figma-Study-Group-AbdulGafar-Olamide-Ajao?node-id=0%3A1)
