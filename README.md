@@ -1,4 +1,4 @@
-# Figma-Design-Study-Group
+# Figma Design Study Group
 ## Welcome to Figma Study Group(FSG)
 What is FSG? 🤷‍♂ 
 > FSG is a group where we all learn Figma by committing 1-2hrs of our time to learn and creating designs every day.
