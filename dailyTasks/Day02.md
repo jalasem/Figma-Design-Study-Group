@@ -1,6 +1,6 @@
 # Getting familiar with the tools
 ## Task List
-1. Wath these youtube videos
+1. Watch these youtube videos
   - [Figma Basics Playlist](https://www.youtube.com/playlist?list=PLXDU_eVOJTx6zk5MDarIs0asNoZqlRG23)
   - [Figma Auto Layout](https://www.youtube.com/watch?v=NrKX46DzkGQ)
   - [Auto Layout Card](https://www.youtube.com/watch?v=ciy44tP51Qw)
