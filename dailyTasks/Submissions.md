@@ -11,3 +11,4 @@
 9. [AbdulGafar Olamide Ajao](https://www.figma.com/file/NbeR6i6KKvNX2lvwHQspuT/Figma-Study-Group-AbdulGafar-Olamide-Ajao?node-id=0%3A1)
 10. [Alabi Sunday](https://www.figma.com/file/YiHza0idcK47W7tyPN8OpZ/Figma-Study-Group-Alabi-Sunday?node-id=2%3A5)
 11. [Babatunde Ademilua](https://www.figma.com/file/8nDZaxPzKXciyC22MfXjXm/Figma-Study-Group-Ademilua-Babatunde?node-id=0%3A1)
+12. [Abdurrazzaq Alade](https://www.figma.com/file/DyRGSPTPV0mbZups5gUoYh/Figma-Study-Group-Abdurrazzaq-Alade?node-id=0%3A1)
