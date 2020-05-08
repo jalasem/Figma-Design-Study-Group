@@ -9,6 +9,7 @@
 - [FreePik](https://www.freepik.com/) 🌄
 - [Flaticon](http://flaticon.com/) (Free Vectors)
 - [Unique Free AI Generated Photos](https://generated.photos/)
+- [Figma Frebies](https://freebiesupply.com/free-figma/)
 
 ## Design Inspiration
 - [Dribbble](https://dribbble.com/) for general design inspiration.
