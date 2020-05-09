@@ -1,7 +1,7 @@
 # Figma Design Study Group
 ## Welcome to Figma Study Group(FSG)
 What is FSG? 🤷‍♂ 
-> FSG is a group where we all learn Figma by committing 1-2hrs of our time to learn and creating designs every day.
+> FSG is a group where we all learn Figma by committing 1-2hrs of our time to learning and creating designs every day.
 Figma💥 is a robust online tool for making designs such as logo, banners, web and apps designs with prototypes and more. 
 You can see for yourself at https://figma.com
 
