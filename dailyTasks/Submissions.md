@@ -17,3 +17,4 @@
 15. [Oladipo Olawale](https://www.figma.com/file/edW1CUKzD8GN8cfgVin1hM/Figma-Study-Group-Olawale?node-id=11%3A0)
 16. [Mustapha Akintola](https://www.figma.com/file/mO2gTVh15Tom7AdqgYCMag/Figma-Study-Group-Mustapha-Akintola?node-id=14%3A10)
 17. [Ahmad Abdulazeez](https://www.figma.com/file/1uYOfc7VvCstHteeWIL6E9/Figma-Study-Group-Ahmad-Abdulazeez?node-id=0%3A1)
+18. [Zainab M.O](https://www.figma.com/file/xcQm1U8xFHkhcx7fO6vQmp/Figma-Design-Group-Zainab-M-.O?node-id=14%3A0)
