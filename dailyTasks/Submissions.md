@@ -16,3 +16,4 @@
 14. [Joshua Folorunsho](https://www.figma.com/file/74iqkPEEatrtfbdLrDw5tL/Figma-Study-Group-Joshua-Folorunsho?node-id=6%3A13)
 15. [Oladipo Olawale](https://www.figma.com/file/edW1CUKzD8GN8cfgVin1hM/Figma-Study-Group-Olawale?node-id=11%3A0)
 16. [Mustapha Akintola](https://www.figma.com/file/mO2gTVh15Tom7AdqgYCMag/Figma-Study-Group-Mustapha-Akintola?node-id=14%3A10)
+17. [Ahmad Abdulazeez](https://www.figma.com/file/1uYOfc7VvCstHteeWIL6E9/Figma-Study-Group-Ahmad-Abdulazeez?node-id=0%3A1)
