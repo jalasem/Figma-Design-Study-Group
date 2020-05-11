@@ -20,3 +20,4 @@
 18. [Zainab M.O](https://www.figma.com/file/xcQm1U8xFHkhcx7fO6vQmp/Figma-Design-Group-Zainab-M-.O?node-id=14%3A0)
 19. [Sebastián Luján](https://www.figma.com/file/XgtJZoKZVnGtSv6QlNip1L/Figma-Design-Group-Sebasti%C3%A1n-Luj%C3%A1n?node-id=4%3A2)
 20. [Rowland Adimuha](https://www.figma.com/file/XQYI9dVuafIdn4uAY4GOIa/Figma-Study-Group-Rowland-Adimoha?node-id=43%3A2)
+21. [Abdulganeey Daud](https://www.figma.com/file/egpRGL88MUc27hc4JC3rVU/Figma-Study-Group-Daud-Abdulganiyu?node-id=26%3A0)
