@@ -24,3 +24,4 @@
 22. [Badaru Olawale Rasheed](https://www.figma.com/file/36PmAtFnRiGjNzBHqs4HTO/Figma-Design-Study-Group.-Rasheed?node-id=7%3A11)
 23. [Muhammed Nasir](https://www.figma.com/file/XWjgynO6fHBDszcRjWN8WR/FIGMA-STUDY-GROUP-ISIAQ-MUHAMMED-NASIR?node-id=0%3A1)
 24. [Emi Opaluwa](https://www.figma.com/file/GhaKYrY41QvE7tfq5kcyXM/Figma-Study-Group-Emi-Opaluwa?node-id=0%3A1)
+25. [Lukman Adeoti](https://www.figma.com/file/1CSqzV4y6TCvoYTECt9t0v/Figma-Study-Group-Lukman_Adeoti?node-id=78%3A24)
